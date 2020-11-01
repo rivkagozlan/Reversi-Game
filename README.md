@@ -8,8 +8,8 @@ A desktop app of the reversi game
 - StartGame.java<br/>
 - Instructions.java<br/>
 - Levels.java<br/>
-- Board.java - Basic game board, also suitable for an easy game.<br/>
-- Board2.java - Classic game board, based on an easy game board.<br/>
+- Board.java - A basic game board, also suitable for an easy game.<br/>
+- Board2.java - A classic game board, based on an easy game board.<br/>
 - Win.java
 
 #### ==How to run?==
